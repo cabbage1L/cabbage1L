@@ -5,6 +5,6 @@
   <p> Fullstack Developer grinding hard to make something cool. </p>
   <p> Tech: React, React Native, Firebase, Node.js ...  </p>
   <p> 📧 Email: athit.disdam.com  </p>
-  <p> 🌐 Portfolio: [https://yourportfolio.com](https://cabbage1l.github.io/web-portfolio) </p>
+  <p> 🌐 Portfolio:(https://cabbage1l.github.io/web-portfolio/)</p>
 </div>
 
