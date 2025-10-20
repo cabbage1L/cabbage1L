@@ -1,9 +1,10 @@
-![Header](https://raw.githubusercontent.com/cabbage1L/cabbage1L/refs/heads/main/asset/READBAN.png)
+![Header](https://raw.githubusercontent.com/cabbage1L/cabbage1L/refs/heads/main/asset/READBAN2.png)
 
-# Hi, I'm Atit! 👋  
+<div align="center">
+  <h1>Hi, I'm Atit! 👋</h1>
+  <p> Fullstack Developer grinding hard to make something cool. </p>
+  <p> Tech: React, React Native, Firebase, Node.js ...  </p>
+  <p> 📧 Email: athit.disdam.com  </p>
+  <p> 🌐 Portfolio: [https://yourportfolio.com](https://cabbage1l.github.io/web-portfolio) </p>
+</div>
 
-Fullstack Developer grinding hard to make something cool.  
-Tech: React, React Native, Firebase, Node.js ...  
-
-📧 Email: athit.disdam.com  
-🌐 Portfolio: [https://yourportfolio.com](https://cabbage1l.github.io/web-portfolio)  
